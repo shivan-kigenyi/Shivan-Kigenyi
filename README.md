@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shivan 👋
 
-<!--
-**shivan-kigenyi/Shivan-Kigenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Supply Chain Analytics Specialist**
 
-Here are some ideas to get you started:
+I'm a data analyst with 5+ years of experience in inventory management and supply chain analytics. I specialize in turning operational data into actionable insights using Python, SQL, and R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- **Languages:** Python, R, SQL
+- **Analysis:** Pandas, NumPy, Scikit-learn, Prophet
+- **Visualization:** Streamlit, Plotly, Matplotlib, Seaborn, ggplot2
+- **Tools:** Git, Excel, PostgreSQL, ERP Systems
+
+## 📊 Featured Projects
+- 📈 [Retail Sales Forecasting](https://github.com/shivan-kigenyi/Retail_sales_forecasting) - Time series forecasting with Prophet & Streamlit
+- 👥 [Customer Segmentation](https://github.com/shivan-kigenyi/Customer-Segmentation-Using-Clustering) - K-Means clustering analysis
+- 💼 [Retail Analytics Dashboard](https://github.com/shivan-kigenyi/Retail_analysis) - End-to-end SQL + Python + Dash
+- 🔮 [Churn Prediction](https://github.com/shivan-kigenyi/Customer-churn-Prediction-Project) - Classification model
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/shivan-kigenyi](https://www.linkedin.com/in/shivan-kigenyi/)
+- Email: shivanviolet82@gmail.com
